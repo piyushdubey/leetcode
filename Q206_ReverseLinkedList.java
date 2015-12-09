@@ -1,6 +1,8 @@
-/**
- * Definition for singly-linked list.
- */
+/*
+Question 206 - Reverse Linked List
+
+Reverse a singly linked list.
+*/
 
 public class Q206_ReverseLinkedList {
     public ListNode reverseList(ListNode head) {
